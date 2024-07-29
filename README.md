@@ -1,8 +1,8 @@
-# grandfeast-1a
+# Ticket Reservation
 
 Web app project for Ticket Reservation
 
-Live demo (beta): [link](https://main--grand-feast-uk-x-europe.netlify.app/)
+Live demo (beta): [link](https://develop--grand-feast-uk-x-europe.netlify.app/)
 
 ## To deploy to production
 
